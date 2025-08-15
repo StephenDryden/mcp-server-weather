@@ -1,0 +1,7 @@
+{
+    "version": "1.0.0",
+    "name": "mcp-server-weather",
+    "description": "A minimal MCP server in C# for weather-related functionality.",
+    "sdk": "ModelContextProtocol C# SDK",
+    "entry": "Dockerfile"
+}

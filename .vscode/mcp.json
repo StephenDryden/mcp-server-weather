@@ -1,0 +1,14 @@
+{
+    "servers": {
+        "weather-server": {
+            "type": "stdio",
+            "command": "docker",
+            "args": [
+                "run",
+                "--rm",
+                "-i",
+                "mcp-weather-server"
+            ]
+        }
+    }
+}
